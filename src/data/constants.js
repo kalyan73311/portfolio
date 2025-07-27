@@ -178,6 +178,23 @@ export const education = [
   
 export const projects = [
     
+{
+      id: 8,
+      title: "TicTacToe",
+      description:
+        "Explore my sleek TicTacToe, built with HTML5, CSS3,and JavaScript. Discover my skills and projects through seamless design and interactivity, optimized for any device.",
+      image:
+        "TicTacToe.png",
+      tags: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+      ],
+      category: "web app",
+      github: "https://github.com/kalyan73311/tictactoe",
+      webapp: "https://tictactoe-kalyan.vercel.app/",
+    },
+
 
     {
       id: 9,
@@ -194,7 +211,7 @@ export const projects = [
       ],
       category: "web app",
       github: "https://github.com/kalyan73311/portfolio",
-      webapp: "#",
+      webapp: "https://portfolio-kalyans-projects-d9f233dc.vercel.app/",
     },
 
 ];  
